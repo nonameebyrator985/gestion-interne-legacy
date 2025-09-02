@@ -12,7 +12,7 @@ Merci de votre intérêt pour contribuer à ce projet ! Voici quelques étapes e
 
 ## Règles de style
 - Utilisez un style de code cohérent avec le reste du projet.
-- Gardez vos commits clairs et descriptifs.
+- Assurez-vous que vos commits sont clairs et descriptifs.
 
 ## Questions ?
-N'hésitez pas à ouvrir une issue ou à poster sur notre forum de discussion !
+N'hésitez pas à ouvrir une issue ou à poser des questions sur notre forum de discussion !
