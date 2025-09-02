@@ -4,7 +4,7 @@ Merci de votre intérêt pour contribuer à ce projet ! Voici quelques étapes e
 
 ## Étapes pour contribuer
 1. **Fork le projet**
-2. **Créez votre branche**: `git checkout -b ma-nouvelle-fonctionnalité` (Utilisez un nom de branche clair et descriptif)
+2. **Créez votre branche**: `git checkout -b ma-nouvelle-fonctionnalité` (Utilisez un nom de branche clair et descriptif basé sur la fonctionnalité que vous ajoutez)
 3. **Faites vos modifications** et testez-les.
 4. **Commitez vos changements**: `git commit -m 'Ajoute une nouvelle fonctionnalité'` (Assurez-vous d'utiliser un message de commit clair et descriptif)
 5. **Poussez votre branche**: `git push origin ma-nouvelle-fonctionnalité`
